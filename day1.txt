@@ -1,0 +1,6 @@
+实习日期：七月十二日 实习时间：9：00~17：00 实习地点：工程训练中心A座 实习单位：校内
+实习内容：
+在Github中创建了Readme.md文件，安装了Pycharm和temsorflow并实现了两者的链接，为后
+续的工作环境提前好准备，安装了donkey car并在pycharm中编写了测试代码，安装了openSCAD
+并学习了一个三维模型，并尝试画出openscad图，并导出为stl文件。利用网络资源下载CAD查看器，
+初步学习Python的相关语法知识并进行了temsorflow相关知识的查阅。
