@@ -1,0 +1,2 @@
+今天我们都完成了老师昨天布置的习题，通过老师布置的习题，使我们进一步深入了解了linux的一些命令，以及donkeycar的一些基本原理。我们还完成了donekycar 
+simulator和conda命令的连接，并且通过donkeycar simulator搜集数据，之后再通过命令行进行训练。

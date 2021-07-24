@@ -1,0 +1,2 @@
+今天主要是对环境的配置。首先，我们安装了tensorflow，并且进行了验证调试；接着我们又按照官网教程装配了donkeycar，我们还下载安装了donkeycar simulator，
+我们还尝试去操纵了一下。最后我们还安装了pycharm，并且编写了一个python代码。
